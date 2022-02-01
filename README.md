@@ -1,5 +1,5 @@
 # NAREORCamReady
-Code for [*NAREOR: The Narrative Reordering Problem*](https://arxiv.org/abs/2104.06669) published at AAAI 2022.
+Code and Dataset for [*NAREOR: The Narrative Reordering Problem*](https://arxiv.org/abs/2104.06669) published at AAAI 2022.
               
 Poster, Long Talk, Lightning Talk and other resources can be found [*here*](https://vgtomahawk.github.io/).
 
